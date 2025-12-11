@@ -1,0 +1,5 @@
+{
+  "name": "Simple Language Translator",
+  "description": "A modern, responsive language translation tool built with React and Tailwind CSS, featuring an animated starfield background. Instantly translate text snippets using a free translation API.",
+  "requestFramePermissions": []
+}
